@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(185, 184, 184);
+  width: 70%;
+  margin: auto;
+}
+
+#showPrice,
+#productPrice {
+  padding: 5px;
+  margin: 20px auto;
+  border: none;
+  border-radius: 10px;
+  color: #ffffff;
+}
+
+#showPrice {
+  width: 70%;
+  background-color: rgb(135, 135, 135);
+  display: none;
+}
+
+#productPrice {
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+}
